@@ -3,6 +3,10 @@
   "version": "0.0.2",
   "description": "A Node.js client for the Emma API",
   "main": "./lib/emma",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appsumo/sumo-fabulous.git"
+  },
   "author": {
     "name": "Nathan Peck",
     "email": "nathan@storydesk.com"
@@ -29,5 +33,8 @@
     "client",
     "sdk"
   ],
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "publishConfig": {
+    "access": "restricted"
+  }
 }
