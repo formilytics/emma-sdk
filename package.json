@@ -1,19 +1,15 @@
 {
-  "name": "emma-sdk",
+  "name": "@formilytics/emma-sdk",
   "version": "0.0.2",
   "description": "A Node.js client for the Emma API",
   "main": "./lib/emma",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/appsumo/sumo-fabulous.git"
+    "url": "git+https://github.com/formilytics/emma-sdk.git"
   },
   "author": {
     "name": "Nathan Peck",
     "email": "nathan@storydesk.com"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/nathanpeck/emma-sdk.git"
   },
   "dependencies": {
     "request": "2.44.0"
